@@ -1,0 +1,12 @@
+.myCard{
+    border: 2px black solid;
+}
+.cardImage{
+    background-image: url("../img/4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 20vh;
+
+}
